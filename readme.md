@@ -3,7 +3,7 @@
 
 [> DOWNLOAD 27kb <](https://files.tdim.tk/u/BulkConverter.zip)
 
-This script allows you to convert multiple files to webp using webp from the terminal, avoid typing the whole command each time you want to convert a file `cwebp input.png -or output/input.webp`. <br>
+This script allows you to convert multiple files to webp using webp from the terminal, avoid typing the whole command each time you want to convert a file `cwebp input.png -o output/input.webp`. <br>
 Just type: (enter to continue) <br>
 **0 or 1** to choose the language, 0 English - 1 Spanish <br>
 **file type**, either jpg, png or any supported one <br>
