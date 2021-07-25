@@ -1,6 +1,8 @@
 # Bulk converter for webp
 > cwebp/webp is required to be installed.
 
+[> DOWNLOAD 27kb <](https://files.tdim.tk/u/BulkConverter.zip)
+
 This script allows you to convert multiple files to webp using webp from the terminal, avoid typing the whole command each time you want to convert a file `cwebp input.png -or output/input.webp`. <br>
 Just type: (enter to continue) <br>
 **0 or 1** to choose the language, 0 English - 1 Spanish <br>
@@ -10,6 +12,8 @@ Just type: (enter to continue) <br>
 
 # Conversor en masa para webp 
 > cwebp/webp es requerido tenerlo instalado 
+
+[> DESCARGAR 27kb <](https://files.tdim.tk/u/BulkConverter.zip)
 
 Este script permite convertir multiples archivos a webp usando webp desde la terminal, evita escribir todo el comando cada vez que se quiera convertir un archivo `cwebp input.png -o output/input.webp` <br>
 Solo se debe escribir: (enter para continuar) <br>
